@@ -8,6 +8,7 @@ void setup() {
   Serial.println("Goodbye World!");
   Serial.println("Last goodbye World!");
   Serial.println("Last Bye World!");
+  Serial.println("Last Hi World!");
 }
 
 void loop() {
