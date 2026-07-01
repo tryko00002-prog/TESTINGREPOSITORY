@@ -5,6 +5,7 @@ void setup() {
   Serial.println("Hello, World!");
   Serial.println("Bye World!");
   Serial.println("Hi World");
+  Serial.println("Goodbye World!");
 }
 
 void loop() {
